@@ -21,6 +21,8 @@ Ethereumjs-tx:
 Dotenv:
 
     npm install dotenv
+    
+Rename dotenv file to .env
 
 Run distribute.js:
 
