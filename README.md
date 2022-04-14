@@ -7,15 +7,19 @@ Clone this repository:
     
 Install the following dependencies:
 Web3:
+
     npm install web3
 
 Bignumber:
+
     npm install bignumber
 
-Ethereumjs-tx
+Ethereumjs-tx:
+
     npm install ethereumjs-tx
 
 Dotenv:
+
     npm install dotenv
 
 Run distribute.js:
