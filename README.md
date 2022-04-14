@@ -8,8 +8,11 @@ Clone this repository:
 Install the following dependencies:
 
     npm install web3
+
     npm install bignumber
+
     npm install ethereumjs-tx
+
     npm install dotenv
 
 Run distribute.js:
